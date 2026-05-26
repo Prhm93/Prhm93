@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/DEEP%20LEARNING-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IMAGE%20SEGMENTATION-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FLOOD%20AI-EA580C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HYDRAULIC%20ENGINEERING-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WAtER%20ENGINEERING-DC2626?style=for-the-badge" />
   <img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-0EA5E9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge" />
 </p>
@@ -36,7 +36,6 @@ My research builds deep learning systems for **flood scene analysis**, including
 **Computer Vision & Detection**
 
 <p>
-  <img src="https://img.shields.io/badge/YOLOv8-00BFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ultralytics-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SAHI-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Albumentations-CC0000?style=for-the-badge" />
