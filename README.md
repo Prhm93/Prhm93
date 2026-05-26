@@ -121,3 +121,4 @@ A career track focused on building production-grade AI applications. Topics bein
 ## 📫 Connect
 
 - 💻 GitHub: [@Prhm93](https://github.com/Prhm93)
+- 🔗 Email: (pimanzadeh.ch@gmail.com)
