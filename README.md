@@ -15,7 +15,7 @@
 
 I'm an **AI Engineer** and researcher specialising in computer vision, deep learning, and applied ML systems. My background spans **civil engineering** and **computer science** — I build end-to-end AI pipelines that solve real-world problems, from model architecture through to deployed applications.
 
-I work across the full stack: designing neural network architectures, training and evaluating models, and shipping production-ready systems with proper backends and frontends.
+I work across the full stack: designing neural network architectures, training and evaluating models, and shipping production-ready systems.
 
 ---
 
