@@ -43,7 +43,7 @@ I work across the full stack: designing neural network architectures, training a
 
 ## 🚀 Projects
 
-### FloodWatch
+### FloodLens
 Full-stack AI application for real-time flood scene analysis.  
 Three-stage pipeline: **semantic segmentation → human detection → emergency classification** (`EMERGENCY / MONITOR / SAFE`)  
 `FastAPI` `PostgreSQL/PostGIS` `React` `Leaflet` `Docker` `PyTorch`
