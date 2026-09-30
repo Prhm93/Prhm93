@@ -63,4 +63,4 @@ Dynamic Kernel Attention Gate — replaces fixed 1×1 attention projections with
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parham%20Imanzadeh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/parham-imanzadeh1994)
 [![GitHub](https://img.shields.io/badge/GitHub-Prhm93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prhm93)
-[![Email](https://img.shields.io/badge/-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pimanzadeh.ch@email.com)
+[![Email](https://img.shields.io/badge/-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pimanzadeh.ch@gmail.com)
